@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Simple App With Compose</string>
+    <string name="shared_repository">Shared repository for open-sourced"\n"projects from the Google AI"\n"Language team.</string>
+    <string name="language">Language</string>
+    <string name="google_logo">Google Logo</string>
+    <string name="_347">347</string>
+    <string name="fork">Fork</string>
+    <string name="python_language">Language</string>
+    <string name="_1525">1525</string>
+    <string name="back">Back</string>
+    <string name="show_issues">Show Issues</string>
+</resources>
