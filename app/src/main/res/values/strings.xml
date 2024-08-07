@@ -6,7 +6,9 @@
     <string name="_347">347</string>
     <string name="fork">Fork</string>
     <string name="python_language">Language</string>
+    <string name="python">Python</string>
     <string name="_1525">1525</string>
     <string name="back">Back</string>
     <string name="show_issues">Show Issues</string>
+    <string name="details_app_bar">Details</string>
 </resources>
